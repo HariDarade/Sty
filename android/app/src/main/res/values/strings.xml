@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">StylinApp</string>
+    <string name="title_activity_main">StylinApp</string>
+    <string name="package_name">com.stylin.app</string>
+    <string name="custom_url_scheme">com.stylin.app</string>
+</resources>
